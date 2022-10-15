@@ -1,5 +1,5 @@
-# Data Analysis/Data Visualization Report: Bike Ride Trends and Biker Types of Ford GoBike System April, 2019
-## by HUI-YING LU
+## Data Analysis/Data Visualization Report: Bike Ride Trends and Biker Types of Ford GoBike System April, 2019
+### by Daniel Muthama
 
 
 ## Dataset
