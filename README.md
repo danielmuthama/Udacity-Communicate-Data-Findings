@@ -1,6 +1,7 @@
 ## Data Analysis and Visualization Report: Bike Ride Trends and Biker Types of Ford GoBike System as in April, 2019
 ### by Daniel Muthama
 
+![CfN23AXEAEkZkz](https://mtc.ca.gov/sites/default/files/images/e-bikes.jpg)
 
 ## Dataset
 This document explores the Ford GoBike's trip data for public containing bike rides from April FY2019. The attributes included the trip start/end time, as well as additional measurements such as user type, gender, and age. 16K data points were removed from the analysis due to missing values in some fields, data inconsistent, or outliner issues.
